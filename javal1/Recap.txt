@@ -1,0 +1,24 @@
+Java FSD(Full Stack Developer)
+1) Front End - User Interface
+	HTML, CSS, JS Swings
+2) Back End  -  User Processing
+	Java JSP
+3) Storage  -  User Data
+	MySQL
+
+Java is a general purpose programming language.
+Use for making desktop, web, mobile applications.
+JDK : Java Developer Kit - 17/18
+	javac used for compiling 
+	java used for running 
+
+Coding :
+
+Output - System.out.println();
+	 System.out.printf();
+
+Input - args[0], args[1], args[2], ....
+
+Operators - +,-,/,>,&&,*,=
+
+Control Statements - if if()else

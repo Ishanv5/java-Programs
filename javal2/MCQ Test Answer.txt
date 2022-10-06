@@ -1,0 +1,15 @@
+Q1. c) James Gosling
+
+Q2. b) Platform Dependent 
+
+Q3. a) boolean
+    c) float
+    e) double
+
+Q4. a) Line 35 will not compile
+    d) Line 38 will not compile
+
+Q5. c) javac Greeting.java
+       java Greeting Duke
+
+Q6. d) Compilation fails because of the error in line 13

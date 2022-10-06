@@ -1,0 +1,8 @@
+method overloading-> Different parameter 
+method overridding->same Parameter
+
+
+
+def->def/pro/pub
+pro->pro/pub
+pub->pub
